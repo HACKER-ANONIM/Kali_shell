@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Docker-Supported-blue.svg" alt="Docker">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 </div>
 
 ---
@@ -33,6 +34,9 @@
 
 
 ## ❇️ Работа skript:OS
+
+
+
 
 
 
