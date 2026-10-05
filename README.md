@@ -34,9 +34,7 @@
 
 
 ## ❇️ Работа skript:OS
-
-
-
+<img width="1474" height="754" alt="Снимок экрана 2026-10-05 191240" src="https://github.com/user-attachments/assets/3ec7b12b-d728-484a-851e-97848108d618" />
 
 
 
