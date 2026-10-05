@@ -1,5 +1,5 @@
 <div align="center">
-  <лого>
+  <img src="https://placehold.co/400x200/0d1117/39ff14?text=Kali+Shell&font=monospace" alt="Kali Shell Logo">
    
   
   <h1>Kali Shell 🐉</h1>
